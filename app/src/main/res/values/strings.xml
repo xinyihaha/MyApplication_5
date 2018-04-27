@@ -1,0 +1,25 @@
+<resources>
+    <string name="preference">Preferences</string>
+    <string name="pref_syncConnectionType">List Preference</string>
+    <string name="pref_syncConnectionType1">Choose one</string>
+    <string name="In_line">In-Line Preference</string>
+    <string name="Dialog_based">Dialog_based Preference</string>
+    <string name="Edit_pref">Edit text preference</string>
+    <string name="Edit_pref1">Enter your favorite animal</string>
+    <string name="Launch_pref">Launch Preference</string>
+    <string name="Screen_pref">Screen Preference</string>
+    <string name="Intent">Intent Preference</string>
+    <string name="Attribute">Preference Attribute</string>
+    <string name="Parent">Parent Checkbox Preference</string>
+    <string name="Child">Child Checkbox Preference</string>
+    <string name="Toggle">Toggle Preference</string>
+    <string name="pre_sum">This is a checkbox</string>
+    <string name="pre_sum1">An example that uses dialog</string>
+    <string name="pre_sum2">An example that uses edit text dialog</string>
+    <string name="pre_sum3">Show another screen of preference</string>
+    <string name="pre_sum4">A web interface intent</string>
+    <string name="pre_sum5">This is a parent</string>
+    <string name="pre_sum6">This is a child</string>
+    <string name="pre_sum7">Another screen for preference</string>
+    <string name="app_name">Exam_5</string>
+</resources>
